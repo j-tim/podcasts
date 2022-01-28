@@ -18,3 +18,8 @@ Repo with links to my favourite podcasts.
 
 * [A State of Trance Podcast](https://www.astateoftrance.com/podcasts/)
 * [A State of Trance Radio - Spotify](https://open.spotify.com/artist/25mFVpuABa9GkGcj9eOPce)
+
+##  ₿ Cryptocurrencies ₿
+
+* [BNR - Crypto cast - Spotify](https://open.spotify.com/show/6914VCPAYWl9nPClOFrTJA)
+* [BNR - Het nieuwe geld - Spotify](https://open.spotify.com/show/1ttltghXSYMMEjFqcKKaXU)
