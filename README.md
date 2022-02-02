@@ -21,5 +21,6 @@ Repo with links to my favourite podcasts.
 
 ##  ₿ Cryptocurrencies ₿
 
+* [Satoshi Radio](https://satoshiradio.nl/)
 * [BNR - Crypto cast - Spotify](https://open.spotify.com/show/6914VCPAYWl9nPClOFrTJA)
 * [BNR - Het nieuwe geld - Spotify](https://open.spotify.com/show/1ttltghXSYMMEjFqcKKaXU)
